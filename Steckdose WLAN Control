@@ -1,0 +1,6 @@
+Steckdose WLAN Control
+Dieses Modul schaltet die WLAN Steckdosen ein oder aus - das Modul erhält die Aufträge per MQTT - eine Plausibilitätskontrolle
+wird nicht realisiert. Der jeweilige Auftragsstatus wird per MQTT dem Auftraggeber berichtet.
+
+Diese Modul basiert auf: https://github.com/turais/tplink-smartplug
+
